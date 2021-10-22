@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+![Image](https://media-exp1.licdn.com/dms/image/C4E03AQHiHVjXpe5Wnw/profile-displayphoto-shrink_800_800/0/1622245495471?e=1640217600&v=beta&t=XLM0YjheBu16dgEsiSCxBxLM58BBQ0BFh-5AUDSs-9M)
 
-You can use the [editor on GitHub](https://github.com/iaminov/iaminov.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Alex Aminov
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bio:** I am currently in the process of obtaining my Bachelor's in Computer Science from CUNY-Queens College. I have had an internship with Interactive Brokers where I worked with AWS, Terraform, and ServiceNow. I've been a tutor in Database Systems. I am also currently in a Data Science fellowship through CUNY Tech Prep. I aspire to be a software developer.
 
-### Markdown
+[LinkedIn](https://www.linkedin.com/in/alex-aminov/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Resume](https://github.com/iaminov/resume/blob/main/resume2021.pdf)
 
-```markdown
-Syntax highlighted code block
+[GitHub](https://github.com/iaminov/) 
 
-# Header 1
-## Header 2
-### Header 3
+Projects:   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Google Drive location uploader](https://github.com/iaminov/google-drive-location-uploader)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Tic-Tac-Toe game](https://github.com/iaminov/tic-tac-toe-game)            
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Queens College database design](https://github.com/iaminov/Queens-College-database-design/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iaminov/iaminov.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
